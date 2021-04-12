@@ -1,0 +1,10 @@
+{
+	"__Author__": "NotKiller233、龙腾猫跃、神奇的雷鎝",
+	"Title": "Minecraft GMCT指令生成",
+	"Description": "各种简单复杂指令的生成网站",
+	"Keywords": "我的世界GMCT",
+	"Types": ["网站"],
+	"IsEvent": true,
+	"EventType": "打开网页",
+	"EventData": "https://mc.metamo.cn/gmct/"
+}
